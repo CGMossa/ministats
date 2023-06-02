@@ -1,0 +1,65 @@
+{
+    "config": {
+        "base_url": "http://127.0.0.1:1111",
+        "mode": "serve",
+        "title": null,
+        "description": null,
+        "languages": {},
+        "default_language": "en",
+        "generate_feed": false,
+        "feed_filename": "atom.xml",
+        "taxonomies": [],
+        "author": null,
+        "build_search_index": true,
+        "extra": {},
+        "markdown": {
+            "highlight_code": true,
+            "highlight_theme": "base16-ocean-dark",
+            "highlight_themes_css": [],
+            "render_emoji": false,
+            "external_links_target_blank": false,
+            "external_links_no_follow": false,
+            "external_links_no_referrer": false,
+            "smart_punctuation": true,
+            "extra_syntaxes_and_themes": []
+        }
+    },
+    "current_path": "/debug/",
+    "current_url": "http://127.0.0.1:1111/debug/",
+    "lang": "en",
+    "page": {
+        "relative_path": "debug.md",
+        "colocated_path": null,
+        "content": "",
+        "permalink": "http://127.0.0.1:1111/debug/",
+        "slug": "debug",
+        "ancestors": [
+            "_index.md"
+        ],
+        "title": null,
+        "description": null,
+        "updated": null,
+        "date": null,
+        "year": null,
+        "month": null,
+        "day": null,
+        "taxonomies": {},
+        "authors": [],
+        "extra": {},
+        "path": "/debug/",
+        "components": [
+            "debug"
+        ],
+        "summary": null,
+        "toc": [],
+        "word_count": 0,
+        "reading_time": 0,
+        "assets": [],
+        "draft": false,
+        "lang": "en",
+        "lower": null,
+        "higher": null,
+        "translations": [],
+        "backlinks": []
+    }
+}
